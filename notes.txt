@@ -1,4 +1,5 @@
 NTS-1 REVERSE ENGINEERING NOTES
 
-2(6?) layer internal PCB
+(most likely) 6 layer internal PCB; top and bottom signal, gnd, 5v, 3.3v, 3.3vRef.
+
 
