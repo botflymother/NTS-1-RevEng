@@ -2,4 +2,16 @@ NTS-1 REVERSE ENGINEERING NOTES
 
 (most likely) 6 layer internal PCB; top and bottom signal, gnd, 5v, 3.3v, 3.3vRef.
 
-
+Things i think will need doing:
+| |  trace front traces
+|x|  trace back traces
+|x|  ID vias
+| |  color code railed traces
+| |  label components with on board labels
+| |  ID ICs
+| |  ID/value passive components
+| |  produce circuit diagram
+| |  produce schematic
+| |  produce gerber data
+| |  produce BOM
+| |  do a nice little write-up
