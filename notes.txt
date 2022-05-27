@@ -2,14 +2,21 @@ NTS-1 REVERSE ENGINEERING NOTES
 
 (most likely) 6 layer internal PCB; top and bottom signal, gnd, 5v, 3.3v, 3.3vRef.
 
+IC1 is a TI TPA6138A2 headphone driver. it seems to be using the typical application circuit in the datasheet
+
+in the headphone amplifier section, the actual headphone jack goes through an extra highpass filter stage that the audio out test points dont. i cant test it right now but my guess is the length of the test point traces adds noise that needs to be filtered for the actual audio out. theres no similar filter before the test point terminates. i guess since the test points arent meant to be used permanently the designers didnt want to add the cost of two resistors and two caps to filter them too. 
+
+
 Things i think will need doing:
 | |  trace front traces
 |x|  trace back traces
 |x|  ID vias
+| |  number the vias
 | |  color code railed traces
 | |  label components with on board labels
 | |  ID ICs
 | |  ID/value passive components
+| |  label individual circuit sections
 | |  produce circuit diagram
 | |  produce schematic
 | |  produce gerber data
