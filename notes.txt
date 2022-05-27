@@ -1,5 +1,8 @@
 NTS-1 REVERSE ENGINEERING NOTES
 
+vim modeline, disregard:
+vim: tw=79
+
 (most likely) 6 layer internal PCB; top and bottom signal, gnd, 5v, 3.3v,
 3.3vRef.
 
@@ -31,3 +34,5 @@ Things i think will need doing:
 | |  produce gerber data
 | |  produce BOM
 | |  do a nice little write-up
+
+
