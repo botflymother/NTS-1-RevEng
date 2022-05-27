@@ -16,7 +16,7 @@ Reverse engineering a Rev.D Korg NTS-1. In progress.
 
 - __tracing-wip.png__: this PNG of the mapping thus far:
 
-![a PNG of the mapping thus far](TRACING-WIP.png)
+![a PNG of the mapping thus far](tracing-wip.png)
 
 - __tracing.xcf.bz2__: the mapping.
 
