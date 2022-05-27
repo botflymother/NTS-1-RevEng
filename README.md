@@ -18,6 +18,6 @@ Reverse engineering a Rev.D Korg NTS-1. In progress.
 
 ![a PNG of the mapping thus far](tracing-wip.png)
 
-- __tracing.xcf.bz2__: the mapping.
+- __tracing.xcf.bz2__: the mapping. gimp project file with different types of marking on their own layers so you can turn layers on or off to highlight different aspects of the circuit.
 
 - __notes.txt__: .you know what a file called notes.txt is. im not going to explain it. fuck you.
