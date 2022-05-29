@@ -18,7 +18,7 @@ Reverse engineering a Rev.D Korg NTS-1. In progress.
 
 - __tracing.png__: this PNG of the mapping thus far:
 
-![a PNG of the mapping thus far](tracing-wip.png)
+![a PNG of the mapping thus far](tracing.png)
 
 - __tracing.xcf.bz2__: the mapping. gimp project file with different types of marking on their own layers so you can turn layers on or off to highlight different aspects of the circuit. (note: gimp can open xcf.bz2 files as-is. you dont have to decompress before using.)
 
