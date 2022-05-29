@@ -16,7 +16,7 @@ Reverse engineering a Rev.D Korg NTS-1. In progress.
 
 - __README.md__: a man knocks at your door. will you answer? will you let him in? can you trust him? do you have any choice?. who even is the man? really. really now. just really *who* is that man. who does he think he is? grab the gun. sneak around back. what you do or do not do after this, is none of my concern.
 
-- __tracing-wip.png__: this PNG of the mapping thus far:
+- __tracing.png__: this PNG of the mapping thus far:
 
 ![a PNG of the mapping thus far](tracing-wip.png)
 
