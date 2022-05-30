@@ -18,6 +18,10 @@ for the life of me i can't identify IC10. markings "w1118 / 2005", 8 pin qfn
 package, and its probably a small embedded speaker amplifier or something? its
 part of the internal speaker circuit but im not sure on its exact role.
 
+a very helpful person on reddit gave me some very helpful googling tips for
+IDing IC10, and while i need to test it to be sure, i think im confident enough
+to put it in the spreadsheet. we did it reddit
+
 Things i think will need doing:
 | |  trace front traces
 |x|  trace back traces
