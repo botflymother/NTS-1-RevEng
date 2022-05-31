@@ -29,7 +29,7 @@ Things i think will need doing:
 |x|  ID vias
 | |  number the vias
 | |  color code railed traces
-| |  label components with on board labels
+|x|  label components with on board labels
 | |  ID ICs
 | |  ID/value passive components
 | |  label individual circuit sections
